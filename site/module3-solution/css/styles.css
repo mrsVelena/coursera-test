@@ -1,0 +1,36 @@
+body {
+  background-color: #FDF0D5;
+  font-family: "Gill Sans", sans-serif;	
+}
+
+#header-nav {
+  background-color: #C6D8D3;
+}
+
+.navbar-brand {
+  padding-top: 10px;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+.nav-item {
+  border: solid 1px #C6D8D3;
+  padding: 5px;
+  margin-top: 1px;
+}
+
+#menu-title {
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+section {
+  background-color: #C6D8D3;
+  padding: 10px;
+}
+
+.col {
+  margin-bottom: 30px;
+}
